@@ -1,0 +1,22 @@
+body{
+	margin:0px;
+
+}
+.maintext{
+	background-color: green;
+	text-align: center;
+	color: white;
+	padding: 30px;
+	font-size: 24px;
+}
+.mainblock{
+	background-color: red;
+	padding-left: 39px;
+	padding: 30px;
+}
+.foot{
+	background-color: green;
+	font-size: 24px;
+	padding: 30px;
+	text-align: center;
+}
